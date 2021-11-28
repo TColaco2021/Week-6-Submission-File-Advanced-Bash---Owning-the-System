@@ -2,7 +2,7 @@
 
 # Unit Description
 
-In the final unit of our introduction to Linux system administration, we'll learn how to combine commands, create custom commands, and write bash scripts.
+In the final unit of our introduction to Linux system administration, I learned how to combine commands, create custom commands, and write bash scripts.
 
 I used these skills to collect logs, audit and reconfigure a Linux machine, and take steps to harden the system.
 
